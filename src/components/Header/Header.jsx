@@ -1,5 +1,5 @@
 import './Header.css';
-import trollFace from './img/troll-face.png';
+import trollFace from '/src/assets/img/troll-face.png';
 
 export default function Header() {
   return (
