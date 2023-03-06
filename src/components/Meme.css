@@ -37,6 +37,7 @@
 .Meme .image {
   max-width: 100%;
   margin-top: 1.5rem;
+  border-radius: 5px;
 }
 
 .meme-container {
